@@ -9,5 +9,7 @@
 ##
   
 <div>
+  
   ![Snake animation](https://github.com/rratilal/rratilal/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
